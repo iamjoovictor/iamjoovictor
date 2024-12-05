@@ -65,16 +65,16 @@
 <h3 align="center">Backend Development</h3>
 <div align="center">
     <a href="https://nodejs.org/" rel="nofollow"> <img
-            src="https://user-images.githubusercontent.com/32282846/148978512-7e711048-d72f-437d-91d1-9dfd3367f495.png"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" title="nodejs" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://nestjs.com/" rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs"
             title="nestjs" width="60" height="40" style="max-width: 100%;"></a>
     <a href="https://fastapi.tiangolo.com/" rel="nofollow"> <img
             src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" title="FastAPI" width="60"
             height="40" style="max-width: 100%;"></a>
     <a href="http://spring.io" rel="nofollow"> <img
-            src="https://user-images.githubusercontent.com/32282846/139592580-6485e942-7a0b-489e-9f9f-50fc891aac6b.png"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
             alt="spring" title="spring" width="60" height="40" style="max-width: 100%;"></a>
 </div>
 <hr>
@@ -86,6 +86,8 @@
     <a href="https://developer.android.com/" rel="nofollow"> <img
             src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png"
             alt="android" title="android" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://flutter.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+            alt="flutter" title="flutter" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <hr>
 
